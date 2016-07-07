@@ -1,0 +1,5 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res/com.example.imageplayground" android:layout_width="fill_parent" android:layout_height="400dp" android:id="@+id/relativeLayout1" android:minWidth="25px" android:minHeight="25px" android:background="#ffb5b5b8"><md55f76be16b6943ca7b9a81f90a02f61a9.MyView android:id="@+id/customView" android:layout_width="match_parent" android:layout_height="match_parent" /><!-- <ImageView
+        android:src="@drawable/icon"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView1" /> --></RelativeLayout>

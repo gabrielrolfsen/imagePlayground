@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="ImagePlayground/ImagePlayground.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.device-api21" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImagePlayground/EnhancedCameraActivity.cs">
+    <Files>
+      <File FileName="ImagePlayground/MyView2.cs" Line="58" Column="48" />
+      <File FileName="ImagePlayground/EnhancedCameraActivity.cs" Line="64" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ImagePlayground AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
